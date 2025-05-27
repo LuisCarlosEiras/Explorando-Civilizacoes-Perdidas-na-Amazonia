@@ -1,0 +1,11 @@
+{
+    "Regi\u00e3o": "amazonia",
+    "Total de Pontos Testados": 600,
+    "S\u00edtios Reais": 296,
+    "Previs\u00f5es M\u00e9todo 1": 259,
+    "Previs\u00f5es M\u00e9todo 2": 283,
+    "S\u00edtios Alta Confian\u00e7a": 185,
+    "Acur\u00e1cia M\u00e9todo 1": 0.595,
+    "Acur\u00e1cia M\u00e9todo 2": 0.5883333333333334,
+    "Concord\u00e2ncia": 0.7133333333333334
+}

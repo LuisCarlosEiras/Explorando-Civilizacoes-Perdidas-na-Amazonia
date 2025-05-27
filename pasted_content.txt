@@ -1,0 +1,48 @@
+Dataset Description
+Satellite imagery and map sources:
+
+Google Earth Engine (GEE): one‑click access to Sentinel‑1/‑2, NICFI, GEDI, SRTM, and Landsat.
+
+European Space Agency: a surplus of incredible open-source data collected over the last decades.
+
+NASA: The NASA catalogue is open to use and home to 25,000+ data sets.
+
+OpenTopography LiDAR for High-res canopy-penetrating elevation (1-10m).
+
+Sentinel-2 optical imagery for 10m, 13-band scenes (good for vegetation scars).
+
+AWS CLI: covers swaths of western Amazon.
+
+Archaeological point data:
+
+The Archeo Blog shares sampled data already drawn from the Amazonian region.
+Academic references with links:
+
+Clasby, Ryan, and Jason Nesbitt, eds. The Archaeology of the Upper Amazon: Complexity and Interaction in the Andean Tropical Forest. University Press of Florida, 2021. https://books.google.com/books?hl=en&lr=&id=B4DSEAAAQBAJ&oi=fnd&pg=PP1&dq=amazon+lidar+archaeology&ots=oK0FItet27&sig=oFAGRog0cFkX9MooeDiaoRvVWzs#v=onepage&q=amazon%20lidar%20archaeology&f=false
+
+Anna Cohen, Sarah Klassen & Damian Evans. (2020) Ethics in Archaeological Lidar. Journal of Computer Applications in Archaeology 3:1, pages 76-91. https://journal.caa-international.org/articles/10.5334/jcaa.48
+
+de Souza, J.G., Schaan, D.P., Robinson, M. et al. Pre-Columbian earth-builders settled along the entire southern rim of the Amazon. Nat Commun 9, 1125 (2018). https://www.nature.com/articles/s41467-018-03510-7
+
+Denise Maria Cavalcante Gomes. Urban Archaeology in the Lower Amazon: Fieldwork Uncovering Large Pre-Colonial Villages in Santarém City, Brazil. Journal of Field Archaeology 0:0, pages 1-20. https://www.tandfonline.com/doi/full/10.1080/00934690.2025.2466877
+
+Jose Iriarte, Mark Robinson, Jonas de Souza, Antonia Damasceno, Franciele da Silva, Francisco Nakahara, Alceu Ranzi & Luiz Aragao. (2020) Geometry by Design: Contribution of Lidar to the Understanding of Settlement Patterns of the Mound Villages in SW Amazonia. Journal of Computer Applications in Archaeology 3:1, pages 151-169. https://journal.caa-international.org/articles/10.5334/jcaa.45
+
+Khan, S., Aragão, L., & Iriarte, J. (2017). A UAV–lidar system to map Amazonian rainforest and its ancient landscape transformations. International Journal of Remote Sensing, 38(8–10), 2313–2330. https://www.tandfonline.com/doi/abs/10.1080/01431161.2017.1295486
+
+Prümers, H., Betancourt, C.J., Iriarte, J. et al. Lidar reveals pre-Hispanic low-density urbanism in the Bolivian Amazon. Nature 606, 325–328 (2022) https://www.nature.com/articles/s41586-022-04780-4
+
+Vinicius Peripato et al, (2023) More than 10,000 pre-Columbian earthworks are still hidden throughout Amazonia. Science 382:6666, pages 103-109 https://www.science.org/doi/10.1126/science.ade2541
+
+Fabien H. Wagner, Vinícius Peripato, Renato Kipnis, Sara L. Werdesheim, Ricardo Dalagnol, Luiz E.O.C. Aragão & Mayumi C. M. Hirye. (2022) Fast computation of digital terrain model anomalies based on LiDAR data for geoglyph detection in the Amazon. Remote Sensing Letters 13:9, pages 935-945. https://www.tandfonline.com/doi/full/10.1080/2150704X.2022.2109942
+
+Robert S. Walker, Jeffrey R. Ferguson, Angelica Olmeda, Marcus J. Hamilton, Jim Elghammer & Briggs Buchanan. (2023) Predicting the geographic distribution of ancient Amazonian archaeological sites with machine learning. PeerJ 11, pages e15137. https://peerj.com/articles/15137/
+
+Per Stenborg, Denise Schaan, Camila G. Figueiredo, Contours of the Past: LiDAR Data Expands the Limits of Late Pre-Columbian Human Settlement in the Santarém Region, Lower Amazon, Journal of Field Archaeology, (2018) Vol. 43, No. 1, 44–57. https://www.tandfonline.com/doi/full/10.1080/00934690.2017.1417198
+
+Online Research Repositories :
+
+Internet Archive Sources for a library of text, audio, and video material to sort through
+
+Library of Congress public‑domain expedition books – contains detailed river‑mile diaries and Indigenous village positions you can geocode
+
