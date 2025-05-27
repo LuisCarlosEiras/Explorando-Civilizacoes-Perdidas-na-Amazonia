@@ -1,1 +1,1 @@
-# Explorando-Civilizacoes-Perdidas-na-Amazonia
+# Explorando Civilizações Perdidas na Amazônia
