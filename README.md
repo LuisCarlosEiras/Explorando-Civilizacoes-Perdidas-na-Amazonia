@@ -2,7 +2,7 @@
 ## Exploring Lost Civilizations in the Amazon
 ![Explorando a Amazonia](IndianaJones.png)
 
-English
+### English
 
 This digital exploration project of the Amazon uses advanced technologies such as satellite imagery, LIDAR, and artificial intelligence to identify and analyze potential archaeological sites hidden beneath the forest canopy.
 
@@ -10,7 +10,7 @@ Through the integration of multiple data sources, the development of innovative 
 
 The results suggest a pre-Columbian Amazon that was much more densely populated and culturally complex than previously thought, with evidence linking legends such as the "Lost City of Z," Paititi, and El Dorado to actual patterns of ancient settlements.
 
-Português do Brasil
+### Português do Brasil
 
 Este projeto de exploração digital da Amazônia utiliza tecnologias avançadas como imagens de satélite, LIDAR e inteligência artificial para identificar e analisar potenciais sítios arqueológicos ocultos sob o dossel da floresta.
 
